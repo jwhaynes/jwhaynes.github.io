@@ -41,12 +41,12 @@ body{
     font-size: 60px;
     font-weight: 700;
     margin: 0;
-    color: black;
+    color: white;
   }
   
   .jumbotron h3 {
     margin: 0 0 20px;
-    color: black;
+    color: white;
   }
   
   section .row img {
